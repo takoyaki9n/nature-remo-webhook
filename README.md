@@ -1,5 +1,6 @@
-# gas-template
-A template to write [Google Apps Script](https://developers.google.com/apps-script/) in TypeScript.
+# nature-remo-webhook
+A custom webhook to Nature Remo.
+This project is copied from [takoyaki9n/gas-template](https://github.com/takoyaki9n/gas-template).
 
 ## Prerequisites
 - [Node.js](https://nodejs.org/)
